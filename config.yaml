@@ -3,6 +3,6 @@ baseURL: http://svyatoynikolay.ru
 name: Святой Николай
 description: Сайт о чуде...
 canonifyURLs: true
-heme: "hugo-bootstrap-premium"
+theme: "hugo-bootstrap-premium"
 publishDir: "public"
 
