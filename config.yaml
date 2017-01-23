@@ -1,0 +1,8 @@
+url: http://svyatoynikolay.ru
+baseURL: http://svyatoynikolay.ru
+name: Святой Николай
+description: Сайт о чуде...
+canonifyURLs: true
+heme: "hugo-bootstrap-premium"
+publishDir: "public"
+
